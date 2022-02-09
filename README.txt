@@ -1,3 +1,6 @@
+2/9/22
+This may be very useless now, due to mod ink made that should (hopefully) prevent music loop crashing. This mod can be found in the qol patch
+
 This is only really useful when using sunglasses's IGT restorer and having saving turned on.
 Doka has only approved this to be used in All Time Pieces.
 
